@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">quizApp</string>
+    <string name="question_declaration">The us Declaration of independence wasa adopted in 1776</string>
+   <string name="correct_answer">that\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_consitution">The supreme law of the land is the consitution</string>
+    <string name="question_amendments">The (U.S) consitution has 26 Amendements</string>
+    <string name="question_independence_rights">The two rights in the declaration of independence are: \n \t <b>life</b> \n \t <b> presuit of happiness</b></string>
+    <string name="question_religion">freedom of religion means: \n \t <b>you can practice any religion or not a practice religion</b></string>
+    <string name="question_goverment">Journalists is one branch or part of the govenment</string>
+    <string name="question_govenment_feds">Congess does not make fedral laws</string>
+    <string name="question_governmen_senators">There are one hunderd (100) us senators</string>
+
+
+
 </resources>
